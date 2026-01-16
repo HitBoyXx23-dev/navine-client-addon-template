@@ -1,2 +1,0 @@
-What went wrong: A problem occurred configuring root project 'NavineClient_Addon_Template'. > Could not resolve all files for configuration ':modImplementation'. > Could not find :NavineClient-1.0.0:. Searched in the following locations: - file:/C:/Users/hitbo/Downloads/NavineClient_Addon_Template/libs/NavineClient-1.0.0.jar Required by: project :
-just take the latest navine client jar rename to NavineClient-1.0.0.jar and make libs folder put in in there like C:\Users\youruser\etc\NavineClient_Addon_Template\libs\NavineClient-1.0.0.jar
